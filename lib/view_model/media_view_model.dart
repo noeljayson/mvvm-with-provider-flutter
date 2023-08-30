@@ -4,7 +4,7 @@ import 'package:flutter/cupertino.dart';
 
 import 'package:mvvm_provider/model/media_repository.dart';
 
-import '../model/media.dart';
+import '../model/media_model_class.dart';
 
 class MediaViewModel with ChangeNotifier {
 

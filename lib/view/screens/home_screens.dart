@@ -18,6 +18,7 @@ class _HomeScreenState extends State<HomeScreen> {
 
   @override
   Widget build(BuildContext context) {
+
     final _inputController = TextEditingController();
     final mediaList = Provider.of<MediaViewModel>(context);
 
